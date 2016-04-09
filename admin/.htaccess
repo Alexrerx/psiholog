@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile /home/u330380592/public_html/admin/.htpasswd
+Require valid-user
