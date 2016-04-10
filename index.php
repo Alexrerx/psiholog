@@ -4,7 +4,8 @@
 <meta charset="utf-8"></head>
 <a href="?1">Раздел 1</a>
 <a href="?2">Раздел 2</a>
-<a href="?3">Раздел 3</a>
+<a href="?3">Раздел 3</a><br>
+<a href="admin">Панель администратора</a>
 </html>
 <?php
 require_once("database.php");
